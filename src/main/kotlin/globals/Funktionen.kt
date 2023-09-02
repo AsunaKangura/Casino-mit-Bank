@@ -1,7 +1,5 @@
 package globals
 
-package globals
-
 import bank.*
 import bank.konten.*
 import casino.*
